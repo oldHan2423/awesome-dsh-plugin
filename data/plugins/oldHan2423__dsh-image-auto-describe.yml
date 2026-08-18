@@ -1,0 +1,6 @@
+url: https://github.com/oldHan2423/dsh-image-auto-describe
+name: oldHan2423/dsh-image-auto-describe
+category: vision
+description:
+  en: 'Image auto-describe provider over an idempotent apiproxy host patch: pasted images are transcribed through configurable vision routes (Qwen first, GLM fallback) so text-only session models receive image prompts instead of a refusal.'
+  zh: '带幂等宿主补丁的 apiproxy 贴图准入提供者：纯文本模型收到图片时，经可配置视觉路由（Qwen 优先、GLM 兜底）转写为文字后放行，而非拒绝。'
